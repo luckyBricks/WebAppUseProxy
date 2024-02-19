@@ -1,7 +1,7 @@
 ## Setup
 1. Ensure you have Node.js above 18.x installed, install Vue CLI
    ```
-   yarn global add @vue/cli
+   sudo yarn global add @vue/cli
    ```
 2. Goto the test frondend project, then host the build bundle locally.
    ```
