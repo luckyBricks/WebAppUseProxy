@@ -11,7 +11,7 @@
    ```
    yarn
    ```
-   Build and host the application locally
+   Build and host the frontend application locally
    ```
    yarn build
    cd dist
