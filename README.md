@@ -7,8 +7,13 @@
    ```
    cd ClientApp/hello-world
    ```
+   Setup dependencies
+   ```
+   yarn
+   ```
+   Build and host the application locally
    ```
    yarn host
    ```
-3. Frontend application will be running on port 3000.
-4. **Run/Debug** the ASP.NET application in Rider, access `http://localhost:5225`, compare the page loading latence in Incognito window.
+4. Frontend application will be running on port 3000.
+5. **Run/Debug** the ASP.NET application in Rider, access `http://localhost:5225`, compare the page loading latence in Incognito window.
